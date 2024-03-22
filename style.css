@@ -1,7 +1,13 @@
 h4
 
 {
-https://photos.app.goo.gl/vNLKWmL3mkEcuvuc8
-  color: pink;
 
-}
+  color: pink;
+ } 
+  
+  body {
+    background-image: url("https://photos.app.goo.gl/vNLKWmL3mkEcuvuc8");
+    background-color: #cccccc;
+   }
+   
+
